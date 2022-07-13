@@ -1,0 +1,63 @@
+.demo1
+{
+    height: 10%;
+    width: 100%;
+    background-color:rgb(200, 52, 94);
+    border-color: rgb(20, 20, 20);
+    border-style:solid;
+}
+.demo2
+{
+    height: 150%;
+    width: 20%;
+    nav-left: auto;
+    border-color:rgb(187, 147, 87);
+    border-style:solid;
+
+}
+.demo3
+{
+    height: 10%;
+    width: 100%;
+    background-color:rgb(210, 141, 170);
+    border-color: crimson;
+    border-style: solid;
+}
+.demo4
+{
+    height: 10%;
+    width: 100%;
+    background-color:rgb(122, 212, 212);
+    border-color: rgb(17, 17, 17);
+    border-style: solid;
+}
+.demo5
+{
+    height: 10%;
+    width: 100%;
+    background-color :rgb(207, 210, 144);
+    border-color: rgb(248, 41, 41);
+    border-style: solid;
+}
+.demo6
+{
+    height: 10%;
+    width: 100%;
+    background-color :rgb(155, 147, 215);
+    border-color: rgb(14, 13, 13);
+    border-style: solid;
+}
+.demo7
+{
+    height: 10%;
+width: 100%;
+background-color :rgb(122, 212, 212);
+border-color: rgb(235, 17, 17);
+}
+.demo8
+{
+    height: 10%;
+    width: 100%;
+    background-color: rgb(122, 212, 212);
+    border-color: rgb(232, 12, 12);
+}
